@@ -8,7 +8,7 @@ Welcome to the Quotes repository! This repository contains a `favoritequotes.swi
 To contribute to this project, please follow these steps:
 
 1. Clone the repository by clicking on "Clone" button on the top right corner of the page
-2. Create a new branch call it <your name>-quote (eg. kuza-quote)
+2. Create a new branch call it [your name]-quote (eg. kuza-quote)
 3. Open the `favoritequotes.swift` file in Xcode or any other IDE (eg. Visual Studio Code)
 4. Add your favorite quote at the end of the list, with your name and the date you're adding the quote. You'll see an example.
 5. Save the changes made to the file
