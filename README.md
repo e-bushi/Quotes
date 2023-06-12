@@ -1,4 +1,4 @@
-Quotes Repository: Read Me
+Favorite Quotes
 ======================
 
 Welcome to the Quotes repository! This repository contains a `favoritequotes.swift` file that can be used to store your favorite quotes from famous philosophers, scientists, artists, etc.
