@@ -14,3 +14,6 @@
 
 // Kuza's Favorite Quote - 6/11/2023
 print("'All things change in a dynamic environment. Your effort to remain what you are is what limits you.' - Motoko Kusanagi, Ghost in the Shell")
+
+// Nard's Favorite Quote - 6/15/2023
+print(" 'Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.' - Marie Curie")
